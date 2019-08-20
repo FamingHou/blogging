@@ -8,7 +8,7 @@ The aim of this exercise is to use Vue.js. It requires that you write a single p
 
     Posts: https://jsonplaceholder.typicode.com/posts
 
-## Installation Guide
+## Prerequisites
 
 * [Install npm](https://nodejs.org/en/)
 
@@ -115,7 +115,7 @@ Google components of nested drawer for vue.js
 
 #### Solution:
 
-Element UI (https://element.eleme.io/#/en-US/component/drawer#nested-drawer)
+[Element UI](https://element.eleme.io/#/en-US/component/drawer#nested-drawer)
 
 ### 2. Filter an array by a given value
 
