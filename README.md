@@ -12,9 +12,17 @@ The aim of this exercise is to use Vue.js. It requires that you write a single p
 
 ![Tour features](docs/overview.gif)
 
-## Prerequisites
+## Installation guide
 
 * [Install npm](https://nodejs.org/en/)
+* Install packages
+    ```console
+    npm install
+    ```
+* Run
+    ```console
+    npm run serve
+    ```
 
 ## Steps
 
