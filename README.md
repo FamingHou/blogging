@@ -8,6 +8,10 @@ The aim of this exercise is to use Vue.js. It requires that you write a single p
 
     Posts: https://jsonplaceholder.typicode.com/posts
 
+## Overview
+
+![Tour features](docs/overview.gif)
+
 ## Prerequisites
 
 * [Install npm](https://nodejs.org/en/)
